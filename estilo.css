@@ -12,7 +12,8 @@ background-image:url("fondo.jpg");
 }
 p
 {
-font-weight:bold;	
+font-weight:bold;
+color:green;	
 }
 fieldset
 {
